@@ -1,3 +1,4 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+
+Antes de empezar con la práctica, mi conocimiento de Docker se centraba principalmente en cómo crear y ejecutar contenedores básicos. Sin embargo, tras completar la práctica, experimenté un avance significativo al profundizar en aspectos más avanzados como la gestión de recursos mediante la configuración de límites de memoria con --memory y --memory-swap, así como la asignación específica de núcleos de CPU usando --cpus y --cpuset-cpus. Esta experiencia me hizo comprender la importancia crítica de establecer límites precisos para garantizar un rendimiento óptimo y la estabilidad de los servicios alojados en contenedores Docker.
+
+Además, durante la práctica exploré cómo configurar healthchecks con --health-cmd, aprendiendo a implementar comandos efectivos para monitorear y mantener la salud de los contenedores de manera continua. También mejoré mis habilidades en la optimización de la construcción de imágenes Docker, aprovechando el mecanismo de caché para reducir los tiempos de construcción y optimizar el ciclo de desarrollo. En conclusión, esta experiencia no solo amplió mi comprensión técnica de Docker, sino que también fortaleció mi capacidad para gestionar y optimizar entornos de contenedores en contextos profesionales exigentes.
